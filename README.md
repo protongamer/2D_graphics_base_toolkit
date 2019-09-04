@@ -6,7 +6,11 @@ There an example sketch to show how to use it, the base is included in base_tool
 V1.0
 Added : 
 -Bars level(for signed and unsigned values) in horizontal and vertical position
+
 -Click button
+
 -Switches
+
 -One choice switch
+
 -Menu button(work like one choice switch)
